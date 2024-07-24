@@ -1,4 +1,4 @@
-sequenceDiagram
+sequenceDiagram Exercise 0.4
     participant browser
     participant server
 
